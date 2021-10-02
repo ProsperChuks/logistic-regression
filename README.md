@@ -1,2 +1,1 @@
 # logistic-regression
-classification
